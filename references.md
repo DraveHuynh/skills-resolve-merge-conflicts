@@ -1,4 +1,4 @@
-<<<<<<<< my-resume
-========
-#Conflicts
->>>>>>>> main
+=======
+# References
+
+* octocat 1 😈
